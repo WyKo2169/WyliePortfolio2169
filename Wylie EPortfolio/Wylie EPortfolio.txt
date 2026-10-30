@@ -1,0 +1,267 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Wylie Kopec | E-Portfolio</title>
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- JavaScript -->
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+
+    <!-- HEADER -->
+    <header>
+        <h2>Wylie Kopec</h2>
+
+        <nav>
+            <a href="#youtube">YouTube</a>
+            <a href="#projects">Projects</a>
+            <a href="#experience">Experience</a>
+            <a href="#platforms">Platforms</a>
+            <a href="#skills">Skills</a>
+        </nav>
+    </header>
+
+
+    <!-- INTRODUCTION -->
+    <section id="home">
+
+        <div class="fade-in">
+            <img src="images/profile.jpg"
+                 alt="Profile photograph"
+                 width="180">
+        </div>
+
+        <div class="fade-in">
+            <h1>Wylie Kopec</h1>
+            <h3>Computer Science Student | Content Creator</h3>
+
+            <p>
+                Welcome to my ePortfolio! Here you can explore
+                my projects, achievements, work experience,
+                and skills.
+            </p>
+        </div>
+
+    </section>
+
+
+    <!-- YOUTUBE CHANNEL -->
+    <section id="youtube">
+
+        <h2>YouTube Channel</h2>
+
+        <div class="fade-in">
+            <img src="images/youtube.jpg" alt="YouTube channel">
+
+            <h3>Wyper Channel</h3>
+
+            <p>
+                I create Minecraft content focusing on interesting
+                mechanics, hidden features, theories, and ideas.
+            </p>
+
+            <a href="YOUR_YOUTUBE_LINK">Visit my channel</a>
+        </div>
+
+        <div class="fade-in">
+            <h3>Favourite Videos</h3>
+
+            <img src="images/video1.jpg" alt="Video thumbnail">
+            <img src="images/video2.jpg" alt="Video thumbnail">
+            <img src="images/video3.jpg" alt="Video thumbnail">
+        </div>
+
+    </section>
+
+
+    <!-- PROJECTS AND ACHIEVEMENTS -->
+    <section id="projects">
+
+        <h2>Projects & Achievements</h2>
+
+        <!-- CASE COMPETITION -->
+        <div class="fade-in">
+
+            <h3>Case Competition</h3>
+
+            <img src="images/competition.jpg"
+                 alt="Case competition achievement">
+
+            <p>
+                Earned second place in my first high-school
+                case competition and received a scholarship.
+                This experience helped develop my teamwork,
+                problem-solving, and presentation skills.
+            </p>
+
+        </div>
+
+
+        <!-- WYPOWER DATABASE -->
+        <div class="fade-in">
+
+            <h3>Wypower Chart</h3>
+
+            <img src="images/wypower.jpg"
+                 alt="Wypower Chart database project">
+
+            <p>
+                A database project I developed and am proud of.
+                This project demonstrates my understanding of
+                database design and implementation.
+            </p>
+
+        </div>
+
+
+        <!-- TRADE TABLE -->
+        <div class="fade-in">
+
+            <h3>Trade Table</h3>
+
+            <img src="images/trade.jpg"
+                 alt="Trade Table database project">
+
+            <p>
+                Another database project from my studies.
+                It demonstrates my ability to organize,
+                manage, and work with structured data.
+            </p>
+
+        </div>
+
+    </section>
+
+
+    <!-- WORK EXPERIENCE -->
+    <section id="experience">
+
+        <h2>Work Experience</h2>
+
+        <div class="fade-in">
+
+            <img src="images/work.jpg"
+                 alt="Work experience photograph">
+
+            <h3>Gas Station Employment</h3>
+
+            <p>
+                Three years of employment at a gas station,
+                developing customer service, teamwork,
+                responsibility, and time management skills.
+            </p>
+
+        </div>
+
+        <h2>Certifications</h2>
+
+        <div class="fade-in">
+
+            <p>First Aid</p>
+            <p>Propane Certification</p>
+            <p>WHMIS</p>
+
+        </div>
+
+    </section>
+
+
+    <!-- PLATFORMS -->
+    <section id="platforms">
+
+        <h2>Platforms & Software</h2>
+
+        <div class="fade-in">
+
+            <h3>Canva</h3>
+
+            <img src="images/canva.jpg" alt="Canva project">
+
+            <p>
+                Used Canva for case competition materials,
+                YouTube videos, and various school assignments.
+            </p>
+
+        </div>
+
+        <div class="fade-in">
+
+            <h3>Figma</h3>
+
+            <img src="images/figma.jpg" alt="Figma website mockup">
+
+            <p>
+                Used Figma to design a mock website for my
+                YouTube channel, applying UX/UI fundamentals.
+            </p>
+
+        </div>
+
+    </section>
+
+
+    <!-- SKILLS -->
+    <section id="skills">
+
+        <h2>Skills</h2>
+
+        <div class="fade-in">
+
+            <ul>
+                <li>Customer Service</li>
+                <li>UX/UI Fundamentals</li>
+                <li>Team Player</li>
+                <li>Cooperative Attitude</li>
+                <li>Time Management</li>
+                <li>Organized</li>
+                <li>Responsible</li>
+                <li>Computer Literacy</li>
+                <li>Dependable</li>
+            </ul>
+
+        </div>
+
+    </section>
+
+
+    <!-- CONTACT -->
+    <section id="contact">
+
+        <div class="fade-in">
+
+            <h2>Thank You for Visiting!</h2>
+
+            <p>
+                Thank you for taking the time to explore
+                my ePortfolio.
+            </p>
+
+            <a href="mailto:YOUR_EMAIL@example.com">
+                Contact Me
+            </a>
+
+        </div>
+
+    </section>
+
+
+    <!-- FOOTER -->
+    <footer>
+
+        <p>&copy; 2026 Wylie Kopec | E-Portfolio</p>
+
+    </footer>
+
+</body>
+</html>
